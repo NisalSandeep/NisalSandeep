@@ -32,7 +32,8 @@
 
 <h3 align="center"> TryHackMe Profile</h3>
 <div align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/VMRON.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/p/VMRON" target="_blank" ><img src="https://tryhackme-badges.s3.amazonaws.com/VMRON.png" alt="Your Image Badge" /></a>
+ 
 
 </div>
 
