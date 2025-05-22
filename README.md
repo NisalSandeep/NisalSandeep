@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **via GitHub @NisalSandeep**
   
-- ⚡ Fun fact **I love solving complex problems **
+- ⚡ Fun fact **I break things for fun. Sometimes they’re servers, sometimes it’s my own brain**
 
 </td>
 <td width="50%" align="center">
