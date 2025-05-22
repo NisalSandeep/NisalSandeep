@@ -1,4 +1,5 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" >
+  <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Nisal Sandeep</h1>
 <h3 align="center">Passionate Developer | Creating Innovative Solutions and Exploring New Technologies</h3>
 
@@ -10,13 +11,13 @@
   
 - 🌱 I'm currently learning **Full Stack Development**
 
-- 🧑‍🎓 I'm passionate about **Software Engineering**
+- 🧑‍🎓 I'm passionate about **Cyber Security**
 
-- 💬 Ask me about **Programming and Web Development**
+- 💬 Ask me about **Web Development and Cyber Security**
 
 - 📫 How to reach me **via GitHub @NisalSandeep**
   
-- ⚡ Fun fact **I love solving complex problems**
+- ⚡ Fun fact **I love solving complex problems **
 
 </td>
 <td width="50%" align="center">
