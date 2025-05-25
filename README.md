@@ -86,12 +86,4 @@
 
 ---
 
-## 📜 Timeline
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NisalSandeep&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/NisalSandeep/NisalSandeep/assets/animation-image.gif" alt="Timeline Animation" width="600"/>
-</div>
