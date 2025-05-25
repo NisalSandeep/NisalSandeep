@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/NisalSandeep" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17A589&background=000000&center=true&vCenter=true&width=435&lines=Full+Stack+Learner;Web+%26+Cyber+Security+Enthusiast;Always+exploring+new+techs!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17A589&background=0d1117&center=true&vCenter=true&width=435&lines=Full+Stack+Learner;Web+%26+Cyber+Security+Enthusiast;Always+exploring+new+techs!" alt="Typing SVG" />
   </a>
 </div>
 
