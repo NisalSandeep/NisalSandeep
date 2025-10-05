@@ -2,7 +2,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="110px" alt="Animated waving hand"/>
 </p>
 <h1 align="center">Hi 👋, I'm Nisal Sandeep</h1>
-<h3 align="center">Passionate Developer | Creating Innovative Solutions | Cyber Security Enthusiast</h3>
+<h3 align="center">Passionate Developer | Creating Innovative Solutions | Cyber Security Enthusiast | Business Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NisalSandeep&label=Profile%20views&color=0e75b6&style=flat" alt="NisalSandeep" />
