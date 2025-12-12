@@ -2,7 +2,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="110px" alt="Animated waving hand"/>
 </p>
 <h1 align="center">Hi 👋, I'm Nisal Sandeep</h1>
-<h3 align="center">Passionate Developer | Creating Innovative Solutions | Cyber Security Enthusiast | Business Analyst</h3>
+<h3 align="center"> Cyber Security Enthusiast | Passionate Developer | Creating Innovative Solutions | | Business Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NisalSandeep&label=Profile%20views&color=0e75b6&style=flat" alt="NisalSandeep" />
@@ -20,7 +20,7 @@
 
 - 🌱 Currently learning **Full Stack Development**
 - 🧑‍🎓 Passionate about **Cyber Security**
-- 💬 Ask me about **Web Development or Cyber Security**
+- 💬 Ask me about **Web Development && Cyber Security**
 - 📫 Reach me **via [GitHub](https://github.com/NisalSandeep)**
 - ⚡ Fun Fact: *I break things for fun. Sometimes they’re servers, sometimes it’s my own brain!*
 
@@ -52,6 +52,7 @@
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Angular-Dark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" width="40" height="40"/>
