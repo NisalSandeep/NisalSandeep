@@ -45,16 +45,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Angular-Dark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,c,html,css,react,nodejs,express,laravel,mysql,mongodb,aws,azure,docker,git,angular,bash,zsh&perline=20" />
 </p>
 
 ---
