@@ -45,7 +45,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,php,c,html,css,react,nodejs,express,laravel,mysql,mongodb,aws,azure,docker,git,angular,bash,zsh&perline=20" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,python,c,html,css,react,nodejs,express,laravel,mysql,mongodb,aws,azure,powershell,docker,git,angular,bash,zsh&perline=20" />
 </p>
 
 ---
