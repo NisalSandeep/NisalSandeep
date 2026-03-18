@@ -19,8 +19,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Full Stack Development**
-- 🧑‍🎓 Passionate about **Cyber Security**
-- 💬 Ask me about **Web Development && Cyber Security**
+- 💬 Ask me about **Web Development && Cyber Security && Businesses **
 - 📫 Reach me **via [GitHub](https://github.com/NisalSandeep)**
 - ⚡ Fun Fact: *I break things for fun. Sometimes they’re servers, sometimes it’s my own brain!*
 
