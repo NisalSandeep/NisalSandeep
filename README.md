@@ -2,7 +2,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="110px" alt="Animated waving hand"/>
 </p>
 <h1 align="center">Hi 👋, I'm Nisal Sandeep</h1>
-<h3 align="center"> Cyber Security Enthusiast | Passionate Developer | Creating Innovative Solutions | | Business </h3>
+<h3 align="center"> Cyber Security Enthusiast | Full Stack Developer | Creating Innovative Solutions | | Business </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NisalSandeep&label=Profile%20views&color=0e75b6&style=flat" alt="NisalSandeep" />
@@ -18,7 +18,6 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Full Stack Development**
 - 💬 Ask me about **Web Development && Cyber Security && Businesses **
 - 📫 Reach me **via [GitHub](https://github.com/NisalSandeep)**
 - ⚡ Fun Fact: *I break things for fun. Sometimes they’re servers, sometimes it’s my own brain!*
