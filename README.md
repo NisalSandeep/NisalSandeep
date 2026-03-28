@@ -19,10 +19,10 @@
 ## `> whoami`
 ```yaml
 name       : Nisal Sandeep
-role       : Cyber Security Enthusiast | Full Stack Developer | Builder
+role       : Cyber Security Enthusiast | Full Stack Developer | Business
 location   : 🇱🇰 Sri Lanka
-status     : Currently learning Full Stack Development
-interests  : [Web Dev, Cyber Security, Business, Breaking Things]
+status     : Currently learning Full Stack Development, Cyber Security Research
+interests  : [Web Dev, Cyber Security, Business]
 fun_fact   : "I break things for fun. Sometimes they're servers,
               sometimes it's my own brain!"
 contact    : github.com/NisalSandeep
