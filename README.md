@@ -19,7 +19,7 @@
 ## `> whoami`
 ```yaml
 name       : Nisal Sandeep
-role       : Cyber Security Enthusiast | Full Stack Developer | Business
+role       : Cyber Security Enthusiast | Full Stack Developer | DevOps | Business Intelligence 
 location   : 🇱🇰 Sri Lanka
 status     : Currently learning Full Stack Development, Cyber Security Research
 interests  : [Web Dev, Cyber Security, Business]
