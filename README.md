@@ -89,7 +89,7 @@ contact    : github.com/NisalSandeep
 
 <div align="center">
   <a href="https://profile.hackthebox.com/profile/019c948f-9536-7378-89b7-2cae0cfb2651" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/VMRON.png" alt="TryHackMe Badge"/>
+    <img src="https://cdn.brandfetch.io/id-M19oKfL/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="TryHackMe Badge"/>
   </a>
 </div>
 
