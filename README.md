@@ -88,8 +88,10 @@ contact    : github.com/NisalSandeep
 </div>
 
 <div align="center">
-  <a href="https://profile.hackthebox.com/profile/019c948f-9536-7378-89b7-2cae0cfb2651" target="_blank">
-    <img src="https://cdn.brandfetch.io/id-M19oKfL/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="TryHackMe Badge"/>
+  <a href="https://app.hackthebox.com/profile/019c948f-9536-7378-89b7-2cae0cfb2651" target="_blank">
+    <img src="https://www.hackthebox.com/badge/image/019c948f-9536-7378-89b7-2cae0cfb2651" 
+         style="border: 2px solid #00ffb3; border-radius: 10px;" 
+         alt="Hack The Box Badge"/>
   </a>
 </div>
 
