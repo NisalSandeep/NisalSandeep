@@ -37,25 +37,25 @@ contact    : github.com/NisalSandeep
 ### ⚡ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,php,bash,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,bash,python&theme=dark" />
 </p>
 
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vite,tailwindcss&theme=dark" />
 </p>
 
 ### 🔧 Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,mongodb,postgresql&theme=dark" />
 </p>
 
 ### ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,wordpress,devops&theme=dark" />
 </p>
 
 </div>
