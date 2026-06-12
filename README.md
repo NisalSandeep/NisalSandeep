@@ -55,7 +55,7 @@ contact    : github.com/NisalSandeep
 ### ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,terraform&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,terraform,Kubernetes,Jenkins,GitHub,GitLab,Ansible&theme=dark" />
 </p>
 
 </div>
