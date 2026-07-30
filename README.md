@@ -52,7 +52,7 @@ contact    : github.com/NisalSandeep
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,terraform,kubernetes,jenkins,github,gitlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,GCP,docker,linux,git,terraform,kubernetes,jenkins,github,gitlab&theme=dark" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
